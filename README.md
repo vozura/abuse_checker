@@ -3,4 +3,4 @@ Checks if an IP is on abuseipdb.com and pulls down statistics such as amount of 
 
 Output is a CSV file.
 
-Note: Not intended for large amounts of IP addresses.
+<b>Note:</b> Not intended for large amounts of IP addresses.
